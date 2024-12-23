@@ -1,0 +1,9 @@
+{
+	"id": "b1udtAq5sbQeBYW",
+	"json": "{\"id\":\"b1udtAq5sbQeBYW\",\"url\":\"https://www.bestbuy.com/site/promo/tv-deals\",\"uniqueKey\":\"https://www.bestbuy.com/site/promo/tv-deals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1734618342498,
+	"retryCount": 0,
+	"uniqueKey": "https://www.bestbuy.com/site/promo/tv-deals",
+	"url": "https://www.bestbuy.com/site/promo/tv-deals"
+}

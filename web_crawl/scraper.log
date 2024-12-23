@@ -1,0 +1,35 @@
+2024-12-21 04:35:27,072 - INFO - Successfully fetched URL: https://www.amazon.in/s?k=tv
+2024-12-21 04:35:27,202 - INFO - Product data saved to products_data.json
+2024-12-21 04:38:36,499 - ERROR - Failed to fetch URL: https://www.amazon.in/s?k=tv - Status Code: 401
+2024-12-21 04:38:49,734 - ERROR - Failed to fetch URL: https://www.amazon.in/s?k=tv - Status Code: 401
+2024-12-21 04:39:03,536 - ERROR - Failed to fetch URL: https://www.amazon.in/s?k=tv - Status Code: 401
+2024-12-21 04:40:54,908 - INFO - Successfully fetched URL: https://www.amazon.in/s?k=tv
+2024-12-21 04:40:55,036 - INFO - Product data saved to products_data.json
+2024-12-21 04:42:35,718 - INFO - Successfully fetched URL: https://www.amazon.in/s?k=tv
+2024-12-21 04:42:35,841 - INFO - Product data saved to products_data.json
+2024-12-21 04:47:13,685 - INFO - Successfully fetched URL: https://www.amazon.in/s?k=tv
+2024-12-21 04:47:13,817 - INFO - Product data saved to products_data.json
+2024-12-21 04:48:27,521 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2024-12-21 04:48:27,601 - WARNING - No product containers found. Check 'debug.html' for potential issues.
+2024-12-21 04:49:26,141 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:49:26,231 - INFO - Product data saved to products_data.json
+2024-12-21 04:51:56,618 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:51:56,703 - INFO - Product data saved to products_data.json
+2024-12-21 04:53:26,076 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:53:26,163 - INFO - Product data saved to products_data.json
+2024-12-21 04:53:53,585 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:53:53,663 - INFO - Product data saved to products_data.json
+2024-12-21 04:54:30,292 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:54:30,381 - INFO - Product data saved to products_data.json
+2024-12-21 04:54:59,875 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:54:59,955 - INFO - Product data saved to products_data.json
+2024-12-21 04:56:13,187 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:56:13,282 - INFO - Product data saved to products_data.json
+2024-12-21 04:58:05,546 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:58:05,640 - INFO - Product data saved to products_data.json
+2024-12-21 04:58:53,842 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=apple
+2024-12-21 04:58:53,949 - INFO - Product data saved to products_data.json
+2024-12-21 05:00:09,643 - INFO - Successfully fetched URL: https://www.amazon.in/s?k=tv
+2024-12-21 05:00:09,770 - INFO - Product data saved to products_data.json
+2024-12-21 05:01:43,940 - INFO - Successfully fetched URL: https://www.bestbuy.com/site/searchpage.jsp?st=tv
+2024-12-21 05:01:44,031 - INFO - Product data saved to products_data.json
